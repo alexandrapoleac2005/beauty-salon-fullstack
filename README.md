@@ -69,6 +69,8 @@ The home page of the beauty salon: ![Home page](docs/screenshots/home.png)
 | **Testing** | JUnit 5, Mockito, MockMvc, Spring Boot Test |
 | **Frontend** | React 19, Vite, React Router, Axios, Tailwind CSS, React DatePicker, date-fns |
 
+> **Note on Frontend Development:** The frontend UI components and layouts (React/Tailwind) were built with the assistance of AI generation tools. This allowed for rapid prototyping of the interface, keeping the core manual development focus and architectural decisions strictly on the Spring Boot backend and business logic.
+
 ## Architecture
 
 The backend implements a standard layered architecture. 
